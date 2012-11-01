@@ -1,0 +1,9 @@
+p {
+	color: green;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+
+	line-height: 30px;
+	text-decoration: line-through underline;
+}

@@ -1,0 +1,9 @@
+p{
+	font-size: 14px;
+}
+
+body {
+	background-color: red;
+	background-image: url('bg.ong');
+	background-repeat: no-repeat;
+}
