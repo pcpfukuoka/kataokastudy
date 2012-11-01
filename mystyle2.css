@@ -6,4 +6,5 @@ p {
 
 	line-height: 30px;
 	text-decoration: line-through underline;
+	font-style: italic;
 }

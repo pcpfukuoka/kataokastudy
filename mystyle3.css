@@ -5,5 +5,7 @@ p{
 body {
 	background-color: red;
 	background-image: url('bg.ong');
-	background-repeat: no-repeat;
+	background-repeat: repeat-x;
+	background-position: 10px 10px;
+	background-attachmant: fixed;
 }
